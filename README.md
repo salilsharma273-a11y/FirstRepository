@@ -1,4 +1,4 @@
 # First Repository
 Learning Git and Github
 <br>
-Author: Salil Sharma
+Author: Salil Sharma (UofL)
